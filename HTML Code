@@ -1,0 +1,46 @@
+<div class="topdiv">
+  <h1 class= "Title">Kyra Young's 'About Me' Page</h1>
+    <h1 class="Subtitle"><b>The World wants to know: <em>More about Kyra Young.</em></b>
+      <br>After reading this page, you'll get a better understanding!</h1>
+</div>
+<div class="secdiv">
+  <h2>What's your top 3?</h2>
+  <p>Kyra was recently asked in a Podcast, what was her top three Netflix series, favorite things to do, and favorite foods.</p>
+    </div>
+    <div class="recdiv">
+      <h3>Netflix series</h3>
+      <ol>
+      <h4><li>See No Evil</li>
+      <li>Detective Diaries</li>
+      <li>The Case That Haunts Me</h4></li>
+      </ol>
+All three Tv Shows can be found <a href="https://www.discoveryplus.com/HTML">here</a>.
+    </div>
+  <div class="recdiv">
+    <h3>Favorite Things To Do</h3>
+    <p>Kyra loves to do the following activities!</p>
+    <ul>
+      <li><a href="https://image.shutterstock.com/image-vector/young-black-woman-umbrella-city-260nw-113406070.jpg">Traveling to the City</a></li>
+      <li><a href="https://i.pinimg.com/736x/02/f3/e9/02f3e9eb156eda83f71a2be36d8921cc--natural-hair-art-black-artwork.jpg">Bike Riding</a></li>
+      <li><a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005001494437350.html&psig=AOvVaw2grUYyZxblIzJqBE2rQeBu&ust=1643477966877000&source=images&cd=vfe&ved=0CAwQjhxqFwoTCLDM8t7-1PUCFQAAAAAdAAAAABAD">Working Out at the Gym</a></li>
+    </ul>
+  </div>
+  <div class="tabdiv">
+    <h3>My Favorite Foods</h3>
+    <table>
+      <tr>
+        <td><img src="https://i.ytimg.com/vi/N5wHq8zev2U/maxresdefault.jpg" width= 370px height= 250px/><p>Beef Pelau with Coleslaw</p>
+      </td>
+    <tr>
+      <p><td><img src="https://i.ytimg.com/vi/7P65cgM19WE/maxresdefault.jpg" width= 370px height= 250px/><p>Roti with Buss Up Shut</p>
+    </td>
+  </tr>
+<tr>
+  <td><img src="https://www.runninginaskirt.com/wp-content/uploads/2020/12/Roasted-Broccoli-and-Mushrooms-22-of-39-5-500x375.jpg" width= 370px height= 250px/><p>Steamed Vegetables(Broccoli & Mushrooms)</p>
+</td>
+</tr>
+    </table>
+      </div>
+      <div class="secdiv">
+           <p>Hope you all enjoyed my page</p>
+  </div>
