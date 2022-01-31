@@ -1,0 +1,95 @@
+body {
+  /*Background color for entire page*/
+  background-color: ;
+}
+
+.topdiv {
+  /*The top header for my page*/
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-color: #E1A0E2;
+  border-width: 1.15px;
+  padding-left: 4.85px;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+
+.subtitle {
+  /*Making subtitle font a little bigger*/
+  /*Use em instead of px for font sizes for more consistent experience with both desktop and mobile platforms*/
+  font-size: 1em;
+}
+
+.secdiv {
+  /*A simple div*/
+  font-family: sans-serif;
+}
+
+.recdiv {
+  /*Light purple rounded div*/
+  background-color: #E1A0E2;
+  border: solid;
+  border-width: 1px;
+  border-color: #BD3FBF;
+  margin: 0px 2px 15px 2px;
+  padding: 0px 17px 5px 17px;
+  border-radius: 25px;
+  font-family: sans-serif;
+}
+
+.tabdiv {
+  /*Purple divider that covers the full widith of the page*/
+  background-color: #E1A0E2;
+  width: 100%;
+  margin: 0px 0px 0px -9px;
+  padding: 2px 9px 0px 0px;
+  color: White;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+.tabdiv h3 {
+  text-align: center;
+  font-family: Courier New;
+}
+
+.tabdiv p {
+  margin-top: 0px;
+  margin-bottom: 20px;
+  font-family: Calibri
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.2em;
+}
+
+p {
+  font-size: 1em;
+}
+
+img {
+  width: 35em;
+  border: solid;
+  border-width: 1.7px;
+  border-color: GhostWhite;
+}
+
+ul {
+  font-size: 1em;
+}
+
+ol {
+  font-size: 1.10em;
+}
+
+table {
+  /*aligns table in the center of the page*/
+  margin: auto;
+}
